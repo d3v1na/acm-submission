@@ -1,0 +1,30 @@
+.infoblock{
+    background-color: #18181b;
+    margin: 92px;
+    margin-bottom: 0;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+    position: relative;
+}
+
+.infoblock p{
+    color: #ffffff;
+    font-family: "Archivo";
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.vll{
+    border-left: 1px solid #3A3A41
+    ;
+    height: 80px;
+    position: relative;
+}
+
+.iconinfo{
+    width: 64px;
+}

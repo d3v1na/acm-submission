@@ -1,0 +1,23 @@
+.logoblock{
+    margin: 60px;
+    border: 1px solid #dedede;
+    border-radius: 12px;
+    height: 114px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoblock > img{
+    margin: 56px;
+    position: relative;
+    bottom: 4px;
+    height: 12px;
+}
+
+.vl {
+    border-left: 1px solid #dedede;
+    height: 80px;
+    position: relative;
+
+}
